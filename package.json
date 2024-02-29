@@ -20,6 +20,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@aws-sdk/credential-providers": "^3.523.0",
     "async": "1.5.x",
     "aws-sdk": "^2.1568.0",
     "bunyan": "1.5.x",
